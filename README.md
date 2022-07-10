@@ -1,4 +1,4 @@
-# Wall.E-Drawing-Using-OpenGL
+# Wall.E-Drawing-Using-OpenGL ( Python )
 Wall_e
 
 
